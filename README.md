@@ -1,4 +1,4 @@
-# SkyChunksandSkyIslands
+# SkyChunksAndSkyIslands
 SkyChunks Plugin for Minecraft, intended to be used with Paper Server.
 
 
