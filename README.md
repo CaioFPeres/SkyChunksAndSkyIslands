@@ -19,3 +19,5 @@ After this, you need to place the End Portal Frame at the Stronghold because its
 This plugin doesn't delete chunks in the End, because i thought that would be a little too much, the End is already a bunch of islands anyway. And also, would be almost impossible to find an Elytra.
 
 Obs: Its not deleting an actual chunk. I wasn't being able to delete an exact chunk, so i deleted less than a chunk many times, but the result is almost the same. Although if i deleted an exact chunk i could save the End Frame chunk.
+
+If somehow you have trouble using the plugin, you can try to download an example map i left in the repository and use as it is, or use as a base to let the plugin delete the chunks that will come. I already set the portal frame at the stronghold.
