@@ -10,7 +10,13 @@ Heres an example of SkyChunks: https://i.imgur.com/MXqzs7m.png
 
 This plugin NEEDS to be used with Paper Server, because its very CPU consuming and Paper got a lot of performance improvements, so it can handle pretty well.
 
-I tested it with Spigot Server and it kinda had a worse time than Paper, even crashed. You should need a good CPU also, but i think thats not a must. Just wait and it shall do it. The first run is the worst, then after that new chunk loading is not that high.Wait a little to join the server. After done message, wait until your fans calm down lol
+I tested it with Spigot Server and it kinda had a worse time than Paper, even crashed. Even Paper can also crash, if it does, just try again, or you can try to let the server use more RAM through a .bat file with this command:
+
+java -Xmx4096M -Xms4096M -jar paper-1.16.4.jar
+
+Just create a txt file and rename it with start.bat for example, and set the amount of RAM you think its good. On the command above i set 4096 mb. I tested it with 1024 mb and it can run, but sometimes can crash or give OutOfMemory exception.
+
+You should need a good CPU also, but i think thats not a must. Just wait and it shall do it. The first run is the worst, then after that new chunk loading is not that high. Wait a little to join the server. After "done" message, wait until your fans calm down lol
 
 After you join the server, go into creative mode and set yourself a spawning point with commands as /setspawn or /setworldspawn in a chunk with a tree ( i think thats the only thing necessary to progress in minecraft lol).
 
