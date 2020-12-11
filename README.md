@@ -14,7 +14,7 @@ I tested it with Spigot Server and it kinda had a worse time than Paper, even cr
 
 java -Xmx4096M -Xms4096M -jar paper-1.16.4.jar
 
-Just create a txt file and rename it with start.bat for example, and set the amount of RAM you think its good. On the command above i set 4096 mb. I tested it with 1024 mb and it can run, but sometimes can crash or give OutOfMemory exception.
+Just create a txt file and rename it with start.bat for example, and set the amount of RAM you think its good. On the command above i set 4096 mb. I tested it with 1024 mb and it can run, but sometimes can crash or give OutOfMemory exception. After creating the .bat, just execute it and the server will start.
 
 You should need a good CPU also, but i think thats not a must. Just wait and it shall do it. The first run is the worst, then after that new chunk loading is not that high. Wait a little to join the server. After "done" message, wait until your fans calm down lol
 
