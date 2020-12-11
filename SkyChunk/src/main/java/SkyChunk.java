@@ -7,11 +7,7 @@ public class SkyChunk extends JavaPlugin{
 
     @Override
     public void onEnable() {
-        getLogger().info("Me tornei aquilo q eu mais temia");
-        getLogger().info("um criador de plugins de minecraft");
-
         getServer().getPluginManager().registerEvents(new ChunkDeletion(), this);
-
     }
 
     @Override
