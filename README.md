@@ -4,6 +4,8 @@ SkyChunks Plugin for Minecraft, intended to be used with Paper Server.
 
 This is a plugin simulating what TapL might have done in this video:  https://www.youtube.com/watch?v=nZOCHHch140&ab_channel=TapL
 
+Plugin to remove 99% of chunks.
+
 Heres an example of SkyIslands:  https://i.imgur.com/doH6LIX.png
 
 Heres an example of SkyChunks: https://i.imgur.com/MXqzs7m.png
@@ -29,3 +31,5 @@ Obs: Its not deleting an actual chunk. I wasn't being able to delete an exact ch
 If somehow you have trouble using the plugin, you can try to download an example map and use as it is, or use as a base to let the plugin delete the chunks that will come. I already set the portal frame at the stronghold.
 
 Example Map: https://drive.google.com/file/d/10ju6C2BT4GKP-eIUh4tOOznanwTd7z4P/view?usp=sharing
+
+There should be a fortress in -260, -300.
