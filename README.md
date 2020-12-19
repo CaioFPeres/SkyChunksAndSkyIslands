@@ -32,4 +32,4 @@ If somehow you have trouble using the plugin, you can try to download an example
 
 Example Map: https://drive.google.com/file/d/1CgG0FpF5KP7nATjMCwIfGkzzCjMVAK__/view?usp=sharing
 
-There should be a fortress in -260, -300.
+There should be a fortress in -270, -200.
