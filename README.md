@@ -30,6 +30,6 @@ Obs: Its not deleting an actual chunk. I wasn't being able to delete an exact ch
 
 If somehow you have trouble using the plugin, you can try to download an example map and use as it is, or use as a base to let the plugin delete the chunks that will come. I already set the portal frame at the stronghold.
 
-Example Map: https://drive.google.com/file/d/10ju6C2BT4GKP-eIUh4tOOznanwTd7z4P/view?usp=sharing
+Example Map: https://drive.google.com/file/d/1CgG0FpF5KP7nATjMCwIfGkzzCjMVAK__/view?usp=sharing
 
 There should be a fortress in -260, -300.
