@@ -36,7 +36,7 @@ There should be a fortress in -270, -200.
 
 
 UPDATE: I added a new plugin called VoidIsLava. I decided to add in this same repository because it suits the topic.
-Basically, VoidIsLava is the same as SkyChunks but with lava instead of void. Also, at y below than 2 it wont generate obsidian nor cobblestone, the water also wont flow (spread). I did this so it can be more interesting, given the fact that anyone could easily create a obsidian bridge with only one water bucket.
+Basically, VoidIsLava is the same as SkyChunks but with lava instead of void. Also, at y below than 2 it wont generate obsidian nor cobblestone, the water also wont flow (spread). I did this so it can be more interesting, given the fact that anyone could easily create an obsidian bridge with only one water bucket.
 
 
 
