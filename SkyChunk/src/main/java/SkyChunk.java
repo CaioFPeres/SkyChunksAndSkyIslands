@@ -7,7 +7,7 @@ public class SkyChunk extends JavaPlugin{
 
     @Override
     public void onEnable() {
-        getServer().getPluginManager().registerEvents(new ChunkDeletion(), this);
+        getServer().getPluginManager().registerEvents(new ChunkDeletion(this), this);
     }
 
     @Override
