@@ -10,6 +10,8 @@ Heres an example of SkyIslands:  https://i.imgur.com/doH6LIX.png
 
 Heres an example of SkyChunks: https://i.imgur.com/MXqzs7m.png
 
+Heres an example of VoidIsLava: https://i.imgur.com/ReGWLmq.png
+
 This plugin NEEDS to be used with Paper Server, because its very CPU consuming and Paper got a lot of performance improvements, so it can handle pretty well.
 
 I tested it with Spigot Server and it kinda had a worse time than Paper, even crashed. Even Paper can also crash, if it does, just try again, or you can try to let the server use more RAM through a .bat file with this command:
