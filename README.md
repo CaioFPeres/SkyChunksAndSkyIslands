@@ -1,5 +1,5 @@
 # SkyChunksAndSkyIslands
-SkyChunks Plugin for Minecraft, intended to be used with Paper Server.
+SkyChunks Plugin for Minecraft, intended to be used with Paper Server. Only for versions prior to 1.18.
 
 
 This is a plugin simulating what TapL might have done in this video:  https://www.youtube.com/watch?v=nZOCHHch140&ab_channel=TapL
