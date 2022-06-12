@@ -1,7 +1,7 @@
 # SkyChunksAndSkyIslands
 SkyChunks Plugin for Minecraft, intended to be used with Paper Server.
 
-UPDATE: Now it works with 1.17 and up, and it no longer consumes a lot of CPU, because i changed the approach. Instead of relying on a chunk listener, we now change how the terrain generates, which is much more reliable, dont show any errors, and doesn't crash. But this introduces other challenges, such as not being able to control structure generation (there's no method to override, in order to change structure generation behaviour).
+UPDATE: Now it works with 1.18 and up, and it no longer consumes a lot of CPU, because i changed the approach. Instead of relying on a chunk listener, we now change how the terrain generates, which is much more reliable, dont show any errors, and doesn't crash. But this introduces other challenges, such as not being able to control structure generation (there's no method to override, in order to change structure generation behaviour).
 
 This is a plugin simulating what TapL might have done in this video:  https://www.youtube.com/watch?v=nZOCHHch140&ab_channel=TapL
 
