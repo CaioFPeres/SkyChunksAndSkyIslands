@@ -2,5 +2,5 @@ name: SkyChunk
 main: SkyChunk
 version: 0.0.1
 description: An enhanced skyblock.
-api-version: 1.16
+api-version: 1.18
 load: STARTUP

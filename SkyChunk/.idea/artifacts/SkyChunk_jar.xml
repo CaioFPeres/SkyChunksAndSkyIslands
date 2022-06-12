@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SkyChunk:jar">
+    <output-path>$USER_HOME$/Paper Server 1.18.2/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="SkyChunk.jar">
+        <element id="module-output" name="SkyChunk" />
+      </element>
+    </root>
+  </artifact>
+</component>
